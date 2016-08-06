@@ -1,0 +1,45 @@
+index.html
+Links
+ Home - index.html
+ About Us - about.html
+ Contact - contact.html
+
+about.html - About Us
+3 links at top and bottom of page
+Home 
+About Us
+Contact
+
+contact.html - Contact
+3 links at top and bottom
+Home
+About Us
+Contact
+
+style.css
+style for body tag
+	background color
+	text color
+	font family
+	font size
+	font style
+	font weight
+Hyperlinks
+	background color
+	text decoration
+	Visiting color links
+
+4 files
+style.css
+index.html
+about.html
+contact.html
+
+Headings of atleast 2 different size
+atleast 2 instances of bold
+atleast 2 instances of italics
+atleast 2 instances of hr
+atleast 2 alignments. use CSS only
+Any other tags learned
+
+
