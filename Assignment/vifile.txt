@@ -1,4 +1,0 @@
-This is example for using VI editor
-Thank you for learning!!!
-
-Modifying the File
